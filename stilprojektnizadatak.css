@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+	font-family: "arizonia";
+	color: purple;
+	font-size: 70px;
+}
+h2 {
+	font-family: "arizonia";
+	color: purple;
+	font-size: 50px;
+}
+h3 {
+	font-family: "arizonia";
+	color: purple;
+	font-size: 40px;
+}
+p {
+	color: aliceblue;
+	font-family:"amatic-sc";
+	font-size: 20px;
+	background-color: pink;
+	padding: 20px;
+}
+body {
+	background-image: url("Slike/bg.jpg");
+	text-align: center;
+}
+a {
+	color: rebeccapurple;
+	background-color: aliceblue;
+	padding: 8px;
+	line-height: 40px;
+	border: double #F697D2;
+	font-size: 20px;
+}
+li {
+	font-family: "amatic-sc";
+	font-size: 18px;
+	background-color: aliceblue;
+	color: purple;
+	padding: 8px;
+}
